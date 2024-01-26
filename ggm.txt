@@ -12,3 +12,5 @@ git remote -v = 리모트 잘 넣었는지 확인
 git push origin master = 오리진 이름의 마스터로 올림
 https://github.com/kimdonghyun8122/ggm_test4.git = 내 깃허브 주소
 화살표 키로 이전 명령어 설정가능
+
+협업 완료!
